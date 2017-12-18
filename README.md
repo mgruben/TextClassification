@@ -2,7 +2,7 @@
 A proof of concept bi-directional LSTM text classifier written in TensorFlow.
 
 ### Introduction
-This repo explores sentiment classification on the [Cornell Movie Review Dataset](http://www.cs.cornell.edu/people/pabo/movie-review-data/) and on the [Stanford Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+This repo explores sentiment classification on the [Cornell Movie Review Dataset](http://www.cs.cornell.edu/people/pabo/movie-review-data/) and on the [Stanford Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/).
 
 The purpose of this repo is to explore the stacked, bidirectional LSTM architecture on text input.
 
