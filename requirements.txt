@@ -16,7 +16,7 @@ jupyter==1.0.0
 jupyter-client==5.1.0
 jupyter-console==5.2.0
 jupyter-core>=4.11.2
-Markdown==2.6.10
+Markdown==3.8.1
 MarkupSafe==1.0
 matplotlib==2.1.1
 mistune==2.0.3
